@@ -3,7 +3,7 @@
   <!-- Banner Animado con Ondas -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF,4285F4,9333EA&height=220&section=header&text=Milagros%20Ramos&fontSize=45&fontAlignY=35&desc=Full+Stack+Developer+✨&descAlignY=55&descAlign=50&animation=twinkling&fontColor=FFFFFF" alt="Header Banner" style="max-width: 100%; border-radius: 0 0 20px 20px;"/>
 
-  <!-- Efecto de Escritura Animado -->
+  <!-- Efecto de Escritura Animado (servidor alternativo por si el otro falla) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=7F52FF&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+código;Android+Developer+📱;Spring+Boot+Expert+⚙️;Estudiante+de+TECSUP+🎓;Creando+soluciones+con+amor+💜" alt="Typing SVG" />
 
   <br>
@@ -18,6 +18,9 @@
   <a href="https://github.com/madelein-milagros" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Mi+Perfil" alt="GitHub" />
   </a>
+
+  <!-- Badge extra cute -->
+  <img src="https://img.shields.io/badge/✨%20Cute%20Developer%20✨-FFB6C1?style=for-the-badge&logo=heart&logoColor=white" alt="Cute Developer" />
 
   <br><br>
 
@@ -38,10 +41,12 @@
       <p>💬 <b>Hablemos de:</b> Android, Kotlin, Spring Boot, Clean Architecture, Firebase y buenas prácticas.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Avatar de chica con lentes -->
-      <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Milagros&glassesProbability=100&top=longHair&hairColor=2c1b18&clothing=blazerAndShirt" width="160" alt="Avatar Milagros" style="border-radius: 50%; border: 3px solid #7F52FF;"/>
+      <!-- Avatar corregido con DiceBear 9.x (estilo adventurer, más cute y confiable) -->
+      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Milagros&glasses=variant01&hair=longHair&hairColor=2c1b18&clothing=blazerAndShirt&backgroundColor=b6e3f4" width="160" alt="Avatar Milagros" style="border-radius: 50%; border: 3px solid #7F52FF; background: white; padding: 4px;"/>
+      <br>
+      <sub>✨ ¡Hola, soy yo! ✨</sub>
     </td>
-  </tr>
+  </table>
 </table>
 
 ---
@@ -160,12 +165,12 @@
 
   <br><br>
 
-  <!-- Racha de commits (opcional - requiere configuración) -->
+  <!-- Racha de commits (requiere actividad reciente) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madelein-milagros&theme=radical&hide_border=true&background=1a1f2e" alt="Streak Stats" width="100%"/>
 
 </div>
 
-> 💡 *Las estadísticas se actualizan cada 24 horas. Si no se ven, espera unos minutos o recarga la página.*
+> 💡 *Las estadísticas se actualizan cada 24 horas. Si ves algún gráfico vacío, es porque GitHub tarda un poco en refrescar.*
 
 ---
 
@@ -194,6 +199,45 @@
 
 ---
 
+## 🧸 Cositas lindas para alegrar el día
+
+<div align="center">
+  
+  <!-- Pequeña galería de emojis animados y datos curiosos -->
+  
+  |  |  |
+  | :---: | :---: |
+  | 🐱‍💻 | *“Programar es como magia, pero con lógica”* |
+  | ☕💜 | *El café y el código van de la mano* |
+  | 🎧 | *Mi playlist secreta: Lo-fi + música de estudio* |
+  | 🧩 | *Me encanta armar rompecabezas mientras pienso soluciones* |
+  
+  <br>
+  
+  <!-- Contador de visitas con forma de corazón (más cute) -->
+  <img src="https://komarev.com/ghpvc/?username=madelein-milagros&style=flat-square&color=FF69B4&label=❤️+Visitas+al+perfil+❤️" alt="Profile views" />
+  
+  <br><br>
+  
+  <!-- Frase motivacional -->
+  > *"El código es poesía en movimiento. Escribamos algo hermoso juntos."*  
+  > — Milagros 💜
+  
+  <br>
+  
+  <!-- Pequeño detalle animado: gato tecleando (ASCII) -->
+  <pre>
+   ╱|、
+  (˚ˎ 。7  
+   |、˜〵          
+  じしˍ,)ノ
+  </pre>
+  <sub>Un gatito programador te envía un abrazo virtual 🐾</sub>
+
+</div>
+
+---
+
 ## 💬 ¿Hablamos?
 
 <div align="center">
@@ -206,18 +250,15 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Envíame+un+correo)](mailto:ramoschamorromilagros@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Ver+mis+proyectos)](https://github.com/madelein-milagros)
 
-<br><br>
-
-> 💜 *"El código es poesía en movimiento. Escribamos algo hermoso juntos."*
-
 </div>
 
 ---
 
 <div align="center" style="color: #8b949e; font-size: 0.85rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #30363d;">
 
-  👾 **Gracias por visitar mi perfil** • 🔄 Actualizado: 2026 • ✨ Hecho con 💜 y café
+  👾 **Gracias por visitar mi perfil** • 🔄 Actualizado: Abril 2026 • ✨ Hecho con 💜 y mucho café
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=madelein-milagros&style=flat-square&color=7F52FF&label=Visitas)
+  <!-- Pequeño corazón animado -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=500&color=FF69B4&center=true&vCenter=true&width=200&lines=%F0%9F%92%96+%F0%9F%92%96+%F0%9F%92%96;Te+envió+un+corazón;%F0%9F%92%96+%F0%9F%92%96+%F0%9F%92%96" alt="Heart typing" />
 
 </div>

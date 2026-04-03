@@ -3,7 +3,7 @@
   <!-- Banner Animado con Ondas -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF,4285F4,9333EA&height=220&section=header&text=Milagros%20Ramos&fontSize=45&fontAlignY=35&desc=Full+Stack+Developer+✨&descAlignY=55&descAlign=50&animation=twinkling&fontColor=FFFFFF" alt="Header Banner" style="max-width: 100%; border-radius: 0 0 20px 20px;"/>
 
-  <!-- Efecto de Escritura Animado (servidor alternativo por si el otro falla) -->
+  <!-- Efecto de Escritura Animado -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=7F52FF&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+código;Android+Developer+📱;Spring+Boot+Expert+⚙️;Estudiante+de+TECSUP+🎓;Creando+soluciones+con+amor+💜" alt="Typing SVG" />
 
   <br>
@@ -41,11 +41,13 @@
       <p>💬 <b>Hablemos de:</b> Android, Kotlin, Spring Boot, Clean Architecture, Firebase y buenas prácticas.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Avatar corregido con DiceBear 9.x (estilo adventurer, más cute y confiable) -->
-      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Milagros&glasses=variant01&hair=longHair&hairColor=2c1b18&clothing=blazerAndShirt&backgroundColor=b6e3f4" width="160" alt="Avatar Milagros" style="border-radius: 50%; border: 3px solid #7F52FF; background: white; padding: 4px;"/>
+      <!-- Avatar con fallback: si la API falla, muestra un emoji bonito -->
+      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Milagros&glasses=variant01&hair=longHair&hairColor=2c1b18&clothing=blazerAndShirt&backgroundColor=b6e3f4" 
+           alt="Avatar Milagros" width="160" style="border-radius: 50%; border: 3px solid #7F52FF; background: white; padding: 4px;"
+           onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/madelein-milagros/madelein-milagros/main/assets/avatar-default.png'; this.alt='🌸 Milagros';">
       <br>
       <sub>✨ ¡Hola, soy yo! ✨</sub>
-    </td>
+     </td>
   </table>
 </table>
 
@@ -157,20 +159,27 @@
 
 <div align="center">
 
-  <!-- Estadísticas principales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=madelein-milagros&show_icons=true&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=FFFFFF&icon_color=7F52FF&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
+  <!-- Estadísticas principales con fallback textual -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=madelein-milagros&show_icons=true&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=FFFFFF&icon_color=7F52FF&text_color=c9d1d9" />
+    <img src="https://via.placeholder.com/450x200?text=✨+Estadísticas+en+construcción+✨" alt="GitHub Stats" width="49%" />
+  </picture>
   
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelein-milagros&layout=compact&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=FFFFFF&text_color=c9d1d9" alt="Top Languages" width="49%"/>
+  <!-- Lenguajes más usados con fallback -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=madelein-milagros&layout=compact&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=FFFFFF&text_color=c9d1d9" />
+    <img src="https://via.placeholder.com/450x200?text=📚+Próximamente+más+lenguajes" alt="Top Languages" width="49%" />
+  </picture>
 
   <br><br>
 
-  <!-- Racha de commits (requiere actividad reciente) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madelein-milagros&theme=radical&hide_border=true&background=1a1f2e" alt="Streak Stats" width="100%"/>
+  <!-- Racha de commits -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madelein-milagros&theme=radical&hide_border=true&background=1a1f2e" alt="Streak Stats" width="100%" 
+       onerror="this.style.display='none'"/>
 
 </div>
 
-> 💡 *Las estadísticas se actualizan cada 24 horas. Si ves algún gráfico vacío, es porque GitHub tarda un poco en refrescar.*
+> 💡 *Las estadísticas se actualizan cada 24 horas. Si ves un placeholder, es porque GitHub aún está generando tus métricas. ¡Pronto lucirán increíbles!*
 
 ---
 
@@ -193,7 +202,12 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=madelein-milagros&theme=gitdimmed&no-frame=true&row=1&margin-w=10&title=MultiLanguage,Commits,PR,Issues)](https://github.com/madelein-milagros)
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=madelein-milagros&theme=gitdimmed&no-frame=true&row=1&margin-w=10&title=MultiLanguage,Commits,PR,Issues" />
+    <img src="https://via.placeholder.com/800x100?text=🏆+Tus+primeros+trofeos+aparecerán+muy+pronto" alt="Trophies" width="100%" />
+  </picture>
+  
+  *✨ Los trofeos se activan automáticamente cuando tengas más actividad en GitHub. ¡Sigue codeando! ✨*
 
 </div>
 
@@ -203,14 +217,10 @@
 
 <div align="center">
   
-  <!-- Pequeña galería de emojis animados y datos curiosos -->
-  
-  |  |  |
-  | :---: | :---: |
-  | 🐱‍💻 | *“Programar es como magia, pero con lógica”* |
-  | ☕💜 | *El café y el código van de la mano* |
-  | 🎧 | *Mi playlist secreta: Lo-fi + música de estudio* |
-  | 🧩 | *Me encanta armar rompecabezas mientras pienso soluciones* |
+  | 🌟 | 🌸 | 🧸 |
+  | :---: | :---: | :---: |
+  | *“Programar es como magia, pero con lógica”* | *El café y el código van de la mano* | *Mi playlist secreta: Lo-fi + música de estudio* |
+  | 🐱‍💻 | ☕💜 | 🎧 |
   
   <br>
   
@@ -258,7 +268,7 @@
 
   👾 **Gracias por visitar mi perfil** • 🔄 Actualizado: Abril 2026 • ✨ Hecho con 💜 y mucho café
   
-  <!-- Pequeño corazón animado -->
+  <!-- Corazón animado al final -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=500&color=FF69B4&center=true&vCenter=true&width=200&lines=%F0%9F%92%96+%F0%9F%92%96+%F0%9F%92%96;Te+envió+un+corazón;%F0%9F%92%96+%F0%9F%92%96+%F0%9F%92%96" alt="Heart typing" />
 
 </div>

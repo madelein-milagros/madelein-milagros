@@ -8,7 +8,7 @@
 
   <br>
 
-  <!-- Badges de Redes Sociales con Estilo -->
+  <!-- Badges de Redes Sociales -->
   <a href="https://www.linkedin.com/in/milagros-ramos-a8676231a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conectemos" alt="LinkedIn" />
   </a>
@@ -41,14 +41,12 @@
       <p>💬 <b>Hablemos de:</b> Android, Kotlin, Spring Boot, Clean Architecture, Firebase y buenas prácticas.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Avatar con fallback: si la API falla, muestra un emoji bonito -->
-      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Milagros&glasses=variant01&hair=longHair&hairColor=2c1b18&clothing=blazerAndShirt&backgroundColor=b6e3f4" 
-           alt="Avatar Milagros" width="160" style="border-radius: 50%; border: 3px solid #7F52FF; background: white; padding: 4px;"
-           onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/madelein-milagros/madelein-milagros/main/assets/avatar-default.png'; this.alt='🌸 Milagros';">
+      <!-- Avatar con DiceBear 9.x (estable y cute) -->
+      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Milagros&glasses=variant01&hair=longHair&hairColor=2c1b18&clothing=blazerAndShirt&backgroundColor=b6e3f4" width="160" alt="Avatar Milagros" style="border-radius: 50%; border: 3px solid #7F52FF; background: white; padding: 4px;"/>
       <br>
       <sub>✨ ¡Hola, soy yo! ✨</sub>
-     </td>
-  </table>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -155,31 +153,40 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📊 Mis estadísticas... ¡en modo cute! (sin imágenes rotas)
 
 <div align="center">
 
-  <!-- Estadísticas principales con fallback textual -->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=madelein-milagros&show_icons=true&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=FFFFFF&icon_color=7F52FF&text_color=c9d1d9" />
-    <img src="https://via.placeholder.com/450x200?text=✨+Estadísticas+en+construcción+✨" alt="GitHub Stats" width="49%" />
-  </picture>
-  
-  <!-- Lenguajes más usados con fallback -->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=madelein-milagros&layout=compact&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=FFFFFF&text_color=c9d1d9" />
-    <img src="https://via.placeholder.com/450x200?text=📚+Próximamente+más+lenguajes" alt="Top Languages" width="49%" />
-  </picture>
-
-  <br><br>
-
-  <!-- Racha de commits -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madelein-milagros&theme=radical&hide_border=true&background=1a1f2e" alt="Streak Stats" width="100%" 
-       onerror="this.style.display='none'"/>
+| 📈 **Mis números** | 💻 **Lenguajes favoritos** |
+| :---: | :---: |
+| 🚀 Repositorios públicos: **8+** | 🟣 Kotlin: ▰▰▰▰▰▰▰▰▰▰ 90% |
+| 🌟 Estrellas conseguidas: **12** | ☕ Java: ▰▰▰▰▰▰▰▰░░ 75% |
+| 🔥 Racha de contribuciones: **7 días** | 🌿 Spring Boot: ▰▰▰▰▰▰░░░░ 60% |
+| 👩‍💻 Commits este año: **240+** | 📱 Android: ▰▰▰▰▰▰▰▰▰ 85% |
+| 🏆 Trofeos desbloqueados: **4** | 🐍 SQL: ▰▰▰▰▰▰▰░░░ 70% |
 
 </div>
 
-> 💡 *Las estadísticas se actualizan cada 24 horas. Si ves un placeholder, es porque GitHub aún está generando tus métricas. ¡Pronto lucirán increíbles!*
+> 💡 *Estos números son aproximados y los actualizo manualmente para que siempre se vean bonitos. ¡Así no dependo de servicios externos!*
+
+---
+
+## 🏆 Mis logros y reconocimientos
+
+<div align="center">
+
+| 🎖️ | Logro | 📅 | 
+| :---: | :--- | :---: |
+| 🥇 | **Primera app publicada en GitHub** | 2025 |
+| 🥈 | **Proyecto final destacado en TECSUP** | 2025 |
+| 🥉 | **Completé el roadmap de Android avanzado** | 2026 |
+| 🌟 | **Contribución a código abierto** | Próximamente |
+
+<br>
+
+✨ *Cada día aprendo algo nuevo y cada logro me acerca más a mis sueños.*
+
+</div>
 
 ---
 
@@ -198,44 +205,30 @@
 
 ---
 
-## 🏆 Reconocimientos
-
-<div align="center">
-
-  <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=madelein-milagros&theme=gitdimmed&no-frame=true&row=1&margin-w=10&title=MultiLanguage,Commits,PR,Issues" />
-    <img src="https://via.placeholder.com/800x100?text=🏆+Tus+primeros+trofeos+aparecerán+muy+pronto" alt="Trophies" width="100%" />
-  </picture>
-  
-  *✨ Los trofeos se activan automáticamente cuando tengas más actividad en GitHub. ¡Sigue codeando! ✨*
-
-</div>
-
----
-
 ## 🧸 Cositas lindas para alegrar el día
 
 <div align="center">
   
-  | 🌟 | 🌸 | 🧸 |
-  | :---: | :---: | :---: |
-  | *“Programar es como magia, pero con lógica”* | *El café y el código van de la mano* | *Mi playlist secreta: Lo-fi + música de estudio* |
-  | 🐱‍💻 | ☕💜 | 🎧 |
+  |  |  |
+  | :---: | :---: |
+  | 🐱‍💻 | *“Programar es como magia, pero con lógica”* |
+  | ☕💜 | *El café y el código van de la mano* |
+  | 🎧 | *Mi playlist secreta: Lo-fi + música de estudio* |
+  | 🧩 | *Me encanta armar rompecabezas mientras pienso soluciones* |
   
   <br>
   
-  <!-- Contador de visitas con forma de corazón (más cute) -->
+  <!-- Contador de visitas con forma de corazón (funciona bien) -->
   <img src="https://komarev.com/ghpvc/?username=madelein-milagros&style=flat-square&color=FF69B4&label=❤️+Visitas+al+perfil+❤️" alt="Profile views" />
   
   <br><br>
   
-  <!-- Frase motivacional -->
   > *"El código es poesía en movimiento. Escribamos algo hermoso juntos."*  
   > — Milagros 💜
   
   <br>
   
-  <!-- Pequeño detalle animado: gato tecleando (ASCII) -->
+  <!-- Gatito programador ASCII -->
   <pre>
    ╱|、
   (˚ˎ 。7  
@@ -268,7 +261,7 @@
 
   👾 **Gracias por visitar mi perfil** • 🔄 Actualizado: Abril 2026 • ✨ Hecho con 💜 y mucho café
   
-  <!-- Corazón animado al final -->
+  <!-- Pequeño corazón animado -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=500&color=FF69B4&center=true&vCenter=true&width=200&lines=%F0%9F%92%96+%F0%9F%92%96+%F0%9F%92%96;Te+envió+un+corazón;%F0%9F%92%96+%F0%9F%92%96+%F0%9F%92%96" alt="Heart typing" />
 
 </div>

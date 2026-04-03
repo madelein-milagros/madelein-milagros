@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <!-- Header animado - Si no carga, se vera el texto alternativo -->
@@ -7,7 +8,7 @@
 
   <!-- Badges de contacto con TUS enlaces reales -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milagros-ramos-a8676231a)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ramoschamorromilagros@gmail.com)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramoschamorromilagros@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madelein-milagros)
 
   <br><br>
@@ -146,12 +147,11 @@ Estudiante de **Diseño y Desarrollo de Software** en TECSUP, con enfoque en des
 
 ## 📈 Actividad en GitHub
 
-<!-- Estadísticas simples que siempre funcionan -->
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PON_AQUI_TU_USUARIO&show_icons=true&theme=radical&hide_border=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=madelein-milagros&show_icons=true&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PON_AQUI_TU_USUARIO&layout=compact&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madelein-milagros&layout=compact&theme=radical&hide_border=false)
 
 </div>
 
@@ -166,7 +166,7 @@ Estudiante de **Diseño y Desarrollo de Software** en TECSUP, con enfoque en des
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conectemos)](https://www.linkedin.com/in/milagros-ramos-a8676231a)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Envíame%20un%20correo)](ramoschamorromilagross@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Envíame%20un%20correo)](mailto:ramoschamorromilagros@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Mi%20Perfil)](https://github.com/madelein-milagros)
 
 <br><br>

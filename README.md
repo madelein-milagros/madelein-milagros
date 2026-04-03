@@ -1,27 +1,16 @@
 <div align="center">
 
-  <!-- Banner Animado con Ondas -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF,4285F4,9333EA&height=220&section=header&text=Milagros%20Ramos&fontSize=45&fontAlignY=35&desc=Full+Stack+Developer+✨&descAlignY=55&descAlign=50&animation=twinkling&fontColor=FFFFFF" alt="Header Banner" style="max-width: 100%; border-radius: 0 0 20px 20px;"/>
+# 👋 Milagros Ramos
 
-  <!-- Efecto de Escritura Animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=7F52FF&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+código;Android+Developer+📱;Spring+Boot+Expert+⚙️;Estudiante+de+TECSUP+🎓;Creando+soluciones+con+amor+💜" alt="Typing SVG" />
+### 🎓 Estudiante de Diseño y Desarrollo de Software | 📱 Android Developer | ⚙️ Spring Boot
 
-  <br>
+📍 Lima, Perú &nbsp;•&nbsp; 🎓 TECSUP &nbsp;•&nbsp; 🔧 Disponible para oportunidades
 
-  <!-- Badges de Redes Sociales con Estilo -->
-  <a href="https://www.linkedin.com/in/milagros-ramos-a8676231a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conectemos" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ramoschamorromilagros@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Envíame+un+correo" alt="Email" />
-  </a>
-  <a href="https://github.com/madelein-milagros" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Mi+Perfil" alt="GitHub" />
-  </a>
+<br>
 
-  <br><br>
-
-  📍 Lima, Perú &nbsp;•&nbsp; 🎓 TECSUP &nbsp;•&nbsp; 🔧 Disponible para oportunidades
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milagros-ramos-a8676231a)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramoschamorromilagros@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madelein-milagros)
 
 </div>
 
@@ -29,176 +18,132 @@
 
 ## 🌸 ¡Hola! Soy Milagros 👋
 
-<table border="0" style="max-width: 800px; margin: 0 auto;">
+> 💜 *"Transformando ideas en código elegante y funcional"*
+
+<table>
   <tr>
-    <td width="65%" valign="top">
-      <p>🚀 <b>Mi Misión:</b> Crear software que no solo funcione, sino que encante al usuario.</p>
-      <p>🎨 <b>Estilo:</b> Me enfoco en el diseño limpio, la arquitectura robusta y la experiencia de usuario.</p>
-      <p>🎮 <b>Dato Curioso:</b> Me encanta resolver retos lógicos y aprender nuevas tecnologías como si fueran niveles de un juego.</p>
-      <p>💬 <b>Hablemos de:</b> Android, Kotlin, Spring Boot, Clean Architecture, Firebase y buenas prácticas.</p>
+    <td width="65%">
+      
+**🚀 Mi Misión:** Crear software que no solo funcione, sino que encante al usuario.
+
+**🎨 Estilo:** Me enfoco en el diseño limpio, la arquitectura robusta y la experiencia de usuario.
+
+**🎮 Dato Curioso:** Me encanta resolver retos lógicos y aprender nuevas tecnologías como si fueran niveles de un juego.
+
+**💬 Hablemos de:** Android, Kotlin, Spring Boot, Clean Architecture, Firebase y buenas prácticas.
+
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Avatar de chica con lentes -->
-      <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Milagros&glassesProbability=100&top=longHair&hairColor=2c1b18&clothing=blazerAndShirt" width="160" alt="Avatar Milagros" style="border-radius: 50%; border: 3px solid #7F52FF;"/>
+    <td width="35%" align="center">
+      
+![Avatar](https://api.dicebear.com/7.x/avataaars/svg?seed=Milagros&glassesProbability=100&top=longHair&hairColor=2c1b18)
+
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Mis Habilidades Técnicas
 
 ### 💻 Lenguajes & Backend
-<div align="center">
 
-| Tecnología | Nivel | Badge |
-| :--- | :--- | :--- |
-| **Kotlin** | Avanzado | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Java** | Intermedio-Avanzado | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
-| **Spring Boot** | Intermedio | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
-| **SQL/MySQL** | Avanzado | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-
-</div>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📱 Mobile & Frontend
-<div align="center">
 
-| Tecnología | Nivel | Badge |
-| :--- | :--- | :--- |
-| **Android + Compose** | Avanzado | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **Jetpack Compose** | Avanzado | ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
-| **Firebase** | Intermedio-Avanzado | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **React** | En aprendizaje | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-</div>
+### 🗄️ Herramientas
 
-### 🗄️ Herramientas & Otros
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📂 Proyectos Destacados
 
 ### 🛒 BodeApp - Sistema de Gestión de Ventas e Inventario
+
 > Aplicación móvil para control de inventario y ventas dirigida a pequeños comercios
 
-<div align="center">
-  
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-  ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-  ![Room](https://img.shields.io/badge/Room-4285F4?style=flat&logo=android&logoColor=white)
-
-</div>
+**Tecnologías:** Kotlin, Jetpack Compose, Firebase, Room Database
 
 ✅ Arquitectura MVVM + Patrón Repository  
 ✅ Autenticación con Firebase Auth & Firestore  
 ✅ Persistencia local con Room Database  
-✅ Diseño UX/UI en Figma con enfoque en usabilidad  
+✅ Diseño UX/UI en Figma  
 
 🔗 [Ver repositorio →](https://github.com/madelein-milagros/bodeapp)
 
 ---
 
 ### 🎓 Sistema de Gestión de Cursos - Spring Security
+
 > API REST con autenticación JWT y autorización basada en roles
 
-<div align="center">
-  
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-  ![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-</div>
+**Tecnologías:** Spring Boot, Spring Security, MySQL
 
 ✅ JWT Authentication & Role-based Authorization  
-✅ API RESTful con validaciones y documentación  
+✅ API RESTful con validaciones  
 ✅ CRUD completo con Spring Data JPA  
-✅ Configuración de CORS y seguridad HTTP  
 
 🔗 [Ver repositorio →](https://github.com/madelein-milagros/prj-crud-spring-boot-mysql)
 
 ---
 
 ### 🗺️ Roadmap Educativo Interactivo
+
 > Plataforma web para visualización de rutas de aprendizaje técnico
 
-<div align="center">
-  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-</div>
+**Tecnologías:** React, Node.js, MongoDB
 
 ✅ Diseño responsive y accesible  
-✅ Navegación intuitiva tipo roadmap.sh  
-✅ Cards interactivas con detalles expandibles  
+✅ Navegación intuitiva  
+✅ Cards interactivas  
 
 🔗 [Ver repositorio →](https://github.com/madelein-milagros/Ciclo-3---Redes)
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Mi Actividad en GitHub
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madelein-milagros&show_icons=true&theme=radical&hide_border=true)
 
-  <!-- Estadísticas principales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=madelein-milagros&show_icons=true&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=FFFFFF&icon_color=7F52FF&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
-  
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelein-milagros&layout=compact&theme=radical&hide_border=true&bg_color=1a1f2e&title_color=FFFFFF&text_color=c9d1d9" alt="Top Languages" width="49%"/>
-
-  <br><br>
-
-  <!-- Racha de commits (opcional - requiere configuración) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madelein-milagros&theme=radical&hide_border=true&background=1a1f2e" alt="Streak Stats" width="100%"/>
-
-</div>
-
-> 💡 *Las estadísticas se actualizan cada 24 horas. Si no se ven, espera unos minutos o recarga la página.*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madelein-milagros&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🎯 Roadmap de Aprendizaje
+## 🎯 Objetivos Profesionales
 
-<div align="center">
-
-| 📚 Estoy aprendiendo | 🎯 Próximamente |
-|---------------------|-----------------|
-| ✅ Clean Architecture | 🔄 Docker & Contenedores |
-| ✅ Patrones Repository | 🔄 Testing (Unit & Integration) |
-| 🔄 Firebase Cloud Functions | ⏳ Kubernetes Básico |
-| 🔄 CI/CD con GitHub Actions | ⏳ Arquitectura Hexagonal |
-
-</div>
+| Plazo | Objetivo |
+|-------|----------|
+| 🎯 Corto plazo | Consolidar conocimientos en Android y arquitecturas limpias |
+| 🚀 Mediano plazo | Contribuir en proyectos empresariales como Full Stack |
+| 🌟 Largo plazo | Especialización en arquitectura de software y liderazgo técnico |
 
 ---
 
-## 🏆 Reconocimientos
+## 📜 Certificaciones
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=madelein-milagros&theme=gitdimmed&no-frame=true&row=1&margin-w=10&title=MultiLanguage,Commits,PR,Issues)](https://github.com/madelein-milagros)
-
-</div>
+- ✅ **Git y GitHub: Control de Versiones** - Completado
+- 🔄 **Desarrollo Android con Kotlin** - En progreso (TECSUP)
+- 🔄 **Spring Boot: Desarrollo de APIs REST** - En progreso
 
 ---
 
-## 💬 ¿Hablamos?
+## 💬 Contacto
 
 <div align="center">
 
-### ✨ Siempre abierta a nuevas oportunidades, colaboraciones y buenas conversaciones sobre código
+### ✨ ¿Interesado en colaborar?
 
 <br>
 
@@ -214,10 +159,8 @@
 
 ---
 
-<div align="center" style="color: #8b949e; font-size: 0.85rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #30363d;">
+<div align="center" style="color: #8b949e; font-size: 0.85rem; margin-top: 2rem;">
 
-  👾 **Gracias por visitar mi perfil** • 🔄 Actualizado: 2026 • ✨ Hecho con 💜 y café
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=madelein-milagros&style=flat-square&color=7F52FF&label=Visitas)
+**Gracias por visitar mi perfil** | ✨ Hecho con 💜 y café
 
 </div>

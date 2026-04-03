@@ -165,9 +165,9 @@ Estudiante de **Diseño y Desarrollo de Software** en TECSUP, con enfoque en des
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conectemos)](PON_AQUI_TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Envíame%20un%20correo)](mailto:PON_AQUI_TU_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Mi%20Perfil)](https://github.com/PON_AQUI_TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conectemos)](https://www.linkedin.com/in/milagros-ramos-a8676231a)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Envíame%20un%20correo)](ramoschamorromilagross@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Mi%20Perfil)](https://github.com/madelein-milagros)
 
 <br><br>
 

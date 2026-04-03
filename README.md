@@ -8,12 +8,12 @@
 
   <br>
 
-  <!-- Badges de Redes Sociales -->
+  <!-- Badges de Redes Sociales (LinkedIn y GitHub con imagen externa segura, Gmail con badge mejorado) -->
   <a href="https://www.linkedin.com/in/milagros-ramos-a8676231a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conectemos" alt="LinkedIn" />
   </a>
   <a href="mailto:ramoschamorromilagros@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Envíame+un+correo" alt="Email" />
+    <img src="https://img.shields.io/badge/📧%20Email-ramoschamorromilagros@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/madelein-milagros" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Mi+Perfil" alt="GitHub" />
@@ -41,12 +41,15 @@
       <p>💬 <b>Hablemos de:</b> Android, Kotlin, Spring Boot, Clean Architecture, Firebase y buenas prácticas.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Avatar con DiceBear 9.x (estable y cute) -->
-      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Milagros&glasses=variant01&hair=longHair&hairColor=2c1b18&clothing=blazerAndShirt&backgroundColor=b6e3f4" width="160" alt="Avatar Milagros" style="border-radius: 50%; border: 3px solid #7F52FF; background: white; padding: 4px;"/>
-      <br>
-      <sub>✨ ¡Hola, soy yo! ✨</sub>
+      <!-- Avatar 100% infalible: emoji + texto -->
+      <div style="font-size: 80px; text-align: center;">
+        👩‍💻🌸
+      </div>
+      <div style="text-align: center; font-weight: bold; color: #7F52FF;">
+        ✨ ¡Hola, soy yo! ✨
+      </div>
     </td>
-  </tr>
+  </table>
 </table>
 
 ---
@@ -162,7 +165,7 @@
 
   <br><br>
 
-  <!-- Pequeña tabla complementaria con emojis (por si acaso, pero no molesta) -->
+  <!-- Pequeña tabla complementaria con emojis -->
   | 📈 Más datos | 💻 Lenguajes favoritos |
   | :---: | :---: |
   | 🚀 Repositorios públicos: **8+** | 🟣 Kotlin: ▰▰▰▰▰▰▰▰▰▰ 90% |
@@ -171,7 +174,7 @@
 
 </div>
 
-> 💡 *El widget de racha se actualiza automáticamente con tus contribuciones reales. Si alguna vez ves un error, espera unos minutos y recarga.*
+> 💡 *El widget de racha se actualiza automáticamente con tus contribuciones reales.*
 
 ---
 
@@ -254,7 +257,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conectemos)](https://www.linkedin.com/in/milagros-ramos-a8676231a)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Envíame+un+correo)](mailto:ramoschamorromilagros@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20Email-ramoschamorromilagros@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramoschamorromilagros@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Ver+mis+proyectos)](https://github.com/madelein-milagros)
 
 </div>

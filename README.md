@@ -153,21 +153,25 @@
 
 ---
 
-## 📊 Mis estadísticas... ¡en modo cute! (sin imágenes rotas)
+## 📊 Mi actividad en GitHub (¡la parte que te gusta!)
 
 <div align="center">
 
-| 📈 **Mis números** | 💻 **Lenguajes favoritos** |
-| :---: | :---: |
-| 🚀 Repositorios públicos: **8+** | 🟣 Kotlin: ▰▰▰▰▰▰▰▰▰▰ 90% |
-| 🌟 Estrellas conseguidas: **12** | ☕ Java: ▰▰▰▰▰▰▰▰░░ 75% |
-| 🔥 Racha de contribuciones: **7 días** | 🌿 Spring Boot: ▰▰▰▰▰▰░░░░ 60% |
-| 👩‍💻 Commits este año: **240+** | 📱 Android: ▰▰▰▰▰▰▰▰▰ 85% |
-| 🏆 Trofeos desbloqueados: **4** | 🐍 SQL: ▰▰▰▰▰▰▰░░░ 70% |
+  <!-- Estadísticas de racha (streak stats) - ESTABLE Y BONITO -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madelein-milagros&theme=radical&hide_border=true&background=1a1f2e&stroke=7F52FF&ring=7F52FF&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F52FF&sideLabels=7F52FF&dates=c9d1d9" alt="Streak Stats" width="100%"/>
+
+  <br><br>
+
+  <!-- Pequeña tabla complementaria con emojis (por si acaso, pero no molesta) -->
+  | 📈 Más datos | 💻 Lenguajes favoritos |
+  | :---: | :---: |
+  | 🚀 Repositorios públicos: **8+** | 🟣 Kotlin: ▰▰▰▰▰▰▰▰▰▰ 90% |
+  | 🌟 Estrellas conseguidas: **12** | ☕ Java: ▰▰▰▰▰▰▰▰░░ 75% |
+  | 👩‍💻 Commits este año: **240+** | 📱 Android: ▰▰▰▰▰▰▰▰▰ 85% |
 
 </div>
 
-> 💡 *Estos números son aproximados y los actualizo manualmente para que siempre se vean bonitos. ¡Así no dependo de servicios externos!*
+> 💡 *El widget de racha se actualiza automáticamente con tus contribuciones reales. Si alguna vez ves un error, espera unos minutos y recarga.*
 
 ---
 
@@ -218,7 +222,7 @@
   
   <br>
   
-  <!-- Contador de visitas con forma de corazón (funciona bien) -->
+  <!-- Contador de visitas con forma de corazón -->
   <img src="https://komarev.com/ghpvc/?username=madelein-milagros&style=flat-square&color=FF69B4&label=❤️+Visitas+al+perfil+❤️" alt="Profile views" />
   
   <br><br>
